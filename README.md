@@ -2,7 +2,7 @@ Cucumber Snippets e Highlight em Português
 ==========================================
 ----
 ## Snippets:
-####cenario + tab :
+####cenario:
 ```ruby
 #language: pt
 #encoding: utf-8
@@ -15,7 +15,7 @@ Quando xxxxxx.
  E xxxx.
 Então deve xxxxx.
 ```
-####esquema + tab :
+####esquema:
 ```ruby
 #language: pt
 #encoding: utf-8
@@ -37,7 +37,7 @@ Exemplos:
 ----
 #### Highlight 
 
-Tem por função destacar as palavras chaves:
+Palavras chaves:
 
     * Funcionalidade
     * Esquema do Cenário
