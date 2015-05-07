@@ -7,12 +7,12 @@ Cucumber Snippets e Highlight em Português
 #language: pt
 #encoding: utf-8
 
-Funcionalidade: xxxxxxxxxxxxxx.
+Funcionalidade: xxxxx.
 
-Cenário: xxxxxxxx.
-Dado xxxxxxxxxxx.
-Quando xxxxxx.
- E xxxx.
+Cenário: xxxxx.
+Dado xxxxx.
+Quando xxxxx.
+ E xxxxx.
 Então deve xxxxx.
 ```
 ####esquema:
@@ -20,19 +20,19 @@ Então deve xxxxx.
 #language: pt
 #encoding: utf-8
 
-Funcionalidade: xxxxxx.
-Esquema do Cenário: xxxx.
+Funcionalidade: xxxxx.
+Esquema do Cenário: xxxxx.
 
-Dado xxxxxx.
-Quando xxxx.
-  E xxxxxx.
+Dado xxxxx.
+Quando xxxxx.
+  E xxxxx.
 Então deve xxxxx.
 
 Exemplos:
 | cenario | coluna1 | coluna2 | resultado | motivo |
-| 1       | xxxxx   | xxxxxx  | xxxxxx    | xxxxxx |
-| 2       | xxxxxx  | xxxxxx  | xxxxxx    | xxxxxx |
-| 3       | xxxxxx  | xxxxxx  | xxxxxx    | xxxxxx |
+| 1       | xxxxx   | xxxxx   | xxxxx     | xxxxx  |
+| 2       | xxxxx   | xxxxx   | xxxxx     | xxxxx  |
+| 3       | xxxxx   | xxxxx   | xxxxx     | xxxxx  |
 ```
 ----
 #### Highlight 
