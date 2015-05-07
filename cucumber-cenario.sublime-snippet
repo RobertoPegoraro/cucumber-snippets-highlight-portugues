@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+#language: pt
+#encoding: utf-8
+
+Funcionalidade: xxxxxxxxxxxxxx. 
+
+Cenário: xxxxxxxx.
+Dado xxxxxxxxxxx.
+Quando xxxxxx.
+  E xxxx.
+Então deve xxxxx.
+]]></content>
+<tabTrigger>cenario</tabTrigger>
+</snippet>

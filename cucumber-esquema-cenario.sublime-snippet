@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+#language: pt
+#encoding: utf-8
+
+Funcionalidade: xxxxxx.
+Esquema do Cenário: xxxx.
+
+Dado xxxxxx.
+Quando xxxx.
+  E xxxxxx.
+Então deve xxxxx.
+
+Exemplos:
+| cenario | coluna1 | coluna2 | resultado | motivo |
+| 1       | xxxxx   | xxxxxx  | xxxxxx    | xxxxxx |
+| 2       | xxxxxx  | xxxxxx  | xxxxxx    | xxxxxx |
+| 3       | xxxxxx  | xxxxxx  | xxxxxx    | xxxxxx |
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>esquema</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

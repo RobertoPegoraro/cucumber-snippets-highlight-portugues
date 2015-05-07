@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+\$I<>
+]]></content>
+   <tabTrigger>int</tabTrigger>
+</snippet>
