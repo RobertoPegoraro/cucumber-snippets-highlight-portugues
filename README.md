@@ -37,8 +37,7 @@ Exemplos:
 ----
 #### Highlight 
 
-Tem por função destacar palavras chaves.
-Palavras-chaves:
+Tem por função destacar as palavras chaves:
 
     * Funcionalidade
     * Esquema do Cenário
