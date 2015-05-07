@@ -3,7 +3,7 @@ Cucumber Snippets e Highlight em Português
 ----
 ## Snippets:
 ####cenario + tab :
-```
+```ruby
 #language: pt
 #encoding: utf-8
 
@@ -28,7 +28,7 @@ Quando xxxx.
   E xxxxxx.
 Então deve xxxxx.
 
-__Exemplos__:
+Exemplos:
 | cenario | coluna1 | coluna2 | resultado | motivo |
 | 1       | xxxxx   | xxxxxx  | xxxxxx    | xxxxxx |
 | 2       | xxxxxx  | xxxxxx  | xxxxxx    | xxxxxx |
