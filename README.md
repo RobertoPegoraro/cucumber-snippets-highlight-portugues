@@ -1,4 +1,4 @@
-Cucumber Snippets e Highlight em Português 
+Cucumber Snippets e Highlight em Português para Sublime Text 
 ==========================================
 ----
 ## Snippets:
