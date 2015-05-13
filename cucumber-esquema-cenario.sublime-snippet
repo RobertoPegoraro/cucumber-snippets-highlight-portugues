@@ -3,19 +3,19 @@
 #language: pt
 #encoding: utf-8
 
-Funcionalidade: xxxxxx.
-Esquema do Cenário: xxxx.
+Funcionalidade: ${1:xxxxx}.
+Esquema do Cenário: ${2:xxxxx}.
 
-Dado xxxxxx.
-Quando xxxx.
-  E xxxxxx.
-Então deve xxxxx.
+Dado ${3:xxxxx}.
+Quando ${4:xxxxx} "<${5:xxxxx}>".
+  E ${6:xxxxx} "<${7:xxxxx}>".
+Então deve ${8:xxxxx}.
 
 Exemplos:
-| cenario | coluna1 | coluna2 | resultado | motivo |
-| 1       | xxxxx   | xxxxxx  | xxxxxx    | xxxxxx |
-| 2       | xxxxxx  | xxxxxx  | xxxxxx    | xxxxxx |
-| 3       | xxxxxx  | xxxxxx  | xxxxxx    | xxxxxx |
+| cenario | ${5:xxxxx} | ${7:xxxxx} | resultado | motivo |
+| 1       | xxxxx | xxxxx | xxxxx     | xxxxx  |
+| 2       | xxxxx | xxxxx | xxxxx     | xxxxx  |
+| 3       | xxxxx | xxxxx | xxxxx     | xxxxx  |
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>esquema</tabTrigger>

@@ -3,13 +3,13 @@
 #language: pt
 #encoding: utf-8
 
-Funcionalidade: xxxxxxxxxxxxxx. 
+Funcionalidade: ${1:xxxxx}.
 
-Cenário: xxxxxxxx.
-Dado xxxxxxxxxxx.
-Quando xxxxxx.
-  E xxxx.
-Então deve xxxxx.
+Cenário: ${2:xxxxx}.
+Dado ${3:xxxxx}.
+Quando ${4:xxxxx}.
+  E ${5:xxxxx}.
+Então deve ${6:xxxxx}.
 ]]></content>
 <tabTrigger>cenario</tabTrigger>
 </snippet>

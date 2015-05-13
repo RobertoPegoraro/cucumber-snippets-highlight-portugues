@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-\$S<>
+\$S<${1:}>
 ]]></content>
    <tabTrigger>string</tabTrigger>
 </snippet>

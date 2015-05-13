@@ -4,7 +4,8 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>steps.rb</string>
+		<string>txt</string>
+		<string>feature</string>
 	</array>
   <key>foldingStartMarker</key>
   <string>^\s*\b(Dado|Quando|Então|E|Ou|Funcionalidade|Esquema do Cenário|Cenário|Exemplos|Mas|)</string>
