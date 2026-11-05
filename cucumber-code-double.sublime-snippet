@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[
-\$D<${1:},${2:}>
-]]></content>
-   <tabTrigger>double</tabTrigger>
-</snippet>

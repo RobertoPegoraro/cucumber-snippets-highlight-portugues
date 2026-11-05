@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[
-\$I<${1:}>
-]]></content>
-   <tabTrigger>int</tabTrigger>
-</snippet>
